@@ -44,12 +44,14 @@ This project is a web application for managing a furniture store. It includes fu
 2. **Install Dependencies**
 
   Navigate to the project directory and install the necessary packages:
+  
   ```bash
   npm install
   ```
 
 3. **Run the Application**
    To start the application, use:
+   
    ```bash
    npm run start
    or
